@@ -1,6 +1,6 @@
-# 🚀 AI Custom Instructions for Capital One
+# 🚀 AI Custom Instructions
 
-Enhance your AI coding experience with enterprise-grade custom instructions that ensure consistency, quality, and alignment with Capital One's development standards. This repository provides curated instruction sets for popular programming languages and frameworks, designed to work seamlessly with GitHub Copilot, Windsurf, and other AI coding assistants. For a comprehensive overview, please refer to the [attached document](https://docs.google.com/document/d/1ILDS2l9Pwv7aYbeSck141_otvSk8fKOIWY_w_JzqaL0/edit?tab=t.c0039e3m157d#heading=h.3myuywd5aq).
+Enhance your AI coding experience with enterprise-grade custom instructions that ensure consistency, quality, and alignment with  development standards. This repository provides curated instruction sets for popular programming languages and frameworks, designed to work seamlessly with GitHub Copilot, Windsurf, and other AI coding assistants. For a comprehensive overview, please refer to the [attached document](https://docs.google.com/document/d/1ILDS2l9Pwv7aYbeSck141_otvSk8fKOIWY_w_JzqaL0/edit?tab=t.c0039e3m157d#heading=h.3myuywd5aq).
 
 ## ✨ What are Custom Instructions?
 
