@@ -12,11 +12,6 @@ Custom instructions are specialized configuration files that help AI coding assi
 - **⚡ Faster Development**: Reduce setup time and get enterprise-compliant code immediately
 - **🎯 Consistent Refactoring**: Apply for best practices automatically
 
-## 🛠️ Usage
-
-- Review the **[Usage Guide](USAGE.md)** for a complete guide on how to use the custom instructions in this repository.
-- Review the **[🚀 Getting Started section](#-getting-started)** for a quick overview of how to set up and use the custom instructions with your AI coding tools.
-
 ### Supported AI Tools
 
 - ✅ **GitHub Copilot Chat** - Full support with custom instructions
@@ -71,11 +66,6 @@ def calculate_user_score(user_data: Dict[str, Any]) -> Optional[float]:
     # Implementation follows PEP 8 and enterprise guidelines
 ```
 
-**Ready to enhance your AI coding experience?** Start with the [Usage Guide](USAGE.md) or dive into the [instruction files](instructions/enterprise/) for your preferred technology stack!
-
-## 🛠️ Support
-
-Review the **[🛠️ Support Guide](SUPPORT.md)** for resources on how to get help and engage with the community.
 
 ## 🤝 Contributing
 
@@ -86,9 +76,6 @@ We welcome contributions from across the enterprise! Here's how to get started:
 3. **Test with AI tools** - Ensure instructions work with GitHub Copilot, etc
 4. **Submit a PR** using our [template](.github/PULL_REQUEST_TEMPLATE.md)
 
-## 🔧 Development
-
-Review the **[🔧 Development Guide](DEVELOPMENT.md)** for instructions on how to maintain and develop in the repo.
 
 ## 👥 Maintainers
 
