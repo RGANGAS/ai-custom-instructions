@@ -10,7 +10,7 @@ Custom instructions are specialized configuration files that help AI coding assi
 
 - **📏 Repository-wide Consistency**: Maintain uniform coding standards across the entire repository
 - **⚡ Faster Development**: Reduce setup time and get enterprise-compliant code immediately
-- **🎯 Consistent Refactoring**: Apply Capital One's best practices automatically
+- **🎯 Consistent Refactoring**: Apply for best practices automatically
 
 ## 🛠️ Usage
 
