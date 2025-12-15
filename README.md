@@ -65,18 +65,3 @@ def calculate_user_score(user_data: Dict[str, Any]) -> Optional[float]:
     """
     # Implementation follows PEP 8 and enterprise guidelines
 ```
-
-
-## 🤝 Contributing
-
-We welcome contributions from across the enterprise! Here's how to get started:
-
-1. **Choose a language/framework** that needs instructions
-2. **Follow the [🤝 Contributing Guide](CONTRIBUTING.md)** for detailed instructions on how to contribute to the project
-3. **Test with AI tools** - Ensure instructions work with GitHub Copilot, etc
-4. **Submit a PR** using our [template](.github/PULL_REQUEST_TEMPLATE.md)
-
-
-## 👥 Maintainers
-
-The maintenance of this project is a collaboration between AI-Powered-DevX team and Community of Practice (CoP) leads team, supported by PLEC Core team via consultation.
